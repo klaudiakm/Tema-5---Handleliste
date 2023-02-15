@@ -67,7 +67,7 @@ appearance: none;
 border: none;
 outline: none;
 background: none;
-border-bottom: solid var(--beige) 2px;
+border-bottom: solid var(--darkgreen) 2px;
 font-size: 1rem;
 color:#2A3D37;
 font-size: 1.3rem;
@@ -122,7 +122,7 @@ font-size: 1.3rem;
  }
 
  .buyed {
-    text-decoration: line-through #FCEBC6;
+    text-decoration: line-through #2A3D37;
     background-color:#eda682;
     color:#2A3D37;
     border: var(--lightyellow);
